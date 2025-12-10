@@ -1,0 +1,4 @@
+EmpID,EmployeeName,Department,DaysPresent,DaysAbsent,DaysOnLeave
+1001,Amit Kumar,Engineering,22,1,1
+1002,Sneha Patel,Sales,18,4,2
+1003,Rohan Sharma,Engineering,23,0,2

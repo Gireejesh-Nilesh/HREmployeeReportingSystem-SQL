@@ -1,0 +1,6 @@
+ClientID,ClientName,ModuleName,Enabled,ConfigJson
+1,BlueTech,Core HR,Yes,"{""timezone"":""Asia/Kolkata""}"
+1,BlueTech,Attendance,Yes,"{""shift"":""9-6""}"
+1,BlueTech,Analytics,Yes,"{""reports"":""enabled""}"
+2,GreenFoods,Core HR,Yes,"{""timezone"":""Asia/Kolkata""}"
+3,HealthFirst,Recruitment,Yes,"{""recruitment_flow"":""enabled""}"
